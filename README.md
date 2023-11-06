@@ -1,5 +1,4 @@
 # Creating-a-backdoor-with-SET
-Creating a backdoor with SET - Ethical Hacking Techniques course
 
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
@@ -20,6 +19,7 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
@@ -49,8 +49,6 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
 ![7 9](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/6a0d812e-0f5b-4ae7-b17e-d912fbf13f78)
-
-
 
 
 
